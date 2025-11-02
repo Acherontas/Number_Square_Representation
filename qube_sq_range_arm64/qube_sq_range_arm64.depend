@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1762104008 source:/home/acherontas/codeblocks/qube_sq_range_arm64/main.cpp
+	<iostream>
+	"math.h"
+
