@@ -1,5 +1,0 @@
-enter number 
-the sq is 2  with intpart 2
-1 :: --> 1 2 
-2 :: --> 3 4 
-last pos 2 with main pos 2
