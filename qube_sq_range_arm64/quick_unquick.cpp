@@ -20,7 +20,7 @@ int quick_unquick::quick(long long int xbi){
     long double fractpart,intpart;
     fractpart=modf(xpik,&intpart);
     xp=intpart;
-    cout<<"the sq is " << xpik << "  with intpart " << xp  <<"\n";
+    cout<<"the sq is " <<std::setprecision(10) << xpik << "  with intpart " << xp  <<"\n";
     long long int tmp_xp=0;
     tmp_xp=xp;
     long long int xt=0;
