@@ -13,6 +13,8 @@ its a mathematical hack at its finest
 
 cause some numbers need for them to attend them with a decimal, float points 
 
+[i does the 2d (x,y) as (x,y,z) 3d one the float point number?]
+
 
 i notice +-2 for the set of numbers i use 
 
