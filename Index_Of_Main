@@ -1,0 +1,34 @@
+if u want to show the column at which the objective number is found 
+when u use the '2' option 
+please patch file 
+by changing @ the quick_unquick.cpp file 
+the specific lines with theses one 
+
+//
+    long long int seira=0;
+    for(i=(xp+1);i<=xbi;i+=pvt){
+       xts+=1;
+       mpos=i+pvt;
+       mpos=mpos-1;
+       if((i<xbi) && (mpos<xbi)){cout<<xts << " :: " << i << " ... " <<   mpos <<"\n"; seira=0;
+                                    goto A;
+                                }
+       if((i<xbi) && (mpos==xbi)){cout<<xts << " :: " <<  i << " ... " <<  xbi <<"\n"; seira=0;
+                                    goto A;
+                                 }
+       if((i==xbi) && (mpos>=xbi)){cout<<xts << " :: " << " ... "<< xbi << " ... " <<  mpos <<"\n"; seira=0;
+                                    goto A;
+                                  }
+       if((i<xbi) && (xbi<mpos) && (mpos>xbi)){
+                                    seira=xbi-i;
+                                    cout<<xts << " :: " << i << " ... " <<  xbi << " (@ " << seira << " ) "  << " ... " << mpos << "\n"; seira=0;
+                                    goto A;
+                                  }
+       A:cout<<"";
+    }
+
+//
+
+ofc the value of seira is +-1 depending the 'orientation' of the subtraction 
+u can use the formula of 'seira=mpos-xbi'  @ line 25 on this file
+to see the position on the columns from the main objective number to the end 
