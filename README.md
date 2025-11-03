@@ -60,6 +60,8 @@ last pos 13 with main pos 12
 
 13*13=169
 
+a bit of shifting cause the internal decimal dotted from 12.XX to 12.99 requires a specificed lenght 
+
 //
 
 for any information contact me at
