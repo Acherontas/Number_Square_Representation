@@ -3,7 +3,7 @@ The number arrange in a square
 
 some numbers tends to go out of the boundaries of interger
 
-bigger number supported 
+bigger number supported long long int typeOf
 
 the differentation in pos as a result
 
