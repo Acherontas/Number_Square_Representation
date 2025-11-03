@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1762156637 source:/home/acherontas/codeblocks/qube_sq_range_arm64/main.cpp
+	<iostream>
+	"math.h"
+	"iomanip"
+	"quick_unquick.h"
+
+1762156637 /home/acherontas/codeblocks/qube_sq_range_arm64/quick_unquick.h
+
