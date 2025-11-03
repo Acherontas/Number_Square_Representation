@@ -3,7 +3,15 @@ The number arrange in a square
 
 some numbers tends to go out of the boundaries of interger
 
-use small numbers in lenght
+bigger number supported 
+
+the differentation in pos as a result
+shows as that pow() of square or ^2 isnt square at all xD
+its a mathematical hack at its finest 
+cause some numbers need for them to attend them with a decimal, float points 
+
+i notice +-2 for the set of numbers i use 
+
 
 
 for any information contact me at
